@@ -1,2 +1,2 @@
 # Calorie-EveryDay
-## 2025Fall-OOP(LH)-FinalPJ
+## 2025-OOP(LH)-FinalPJ
