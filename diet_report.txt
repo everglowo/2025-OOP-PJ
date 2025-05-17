@@ -1,0 +1,19 @@
+============================================================
+Daily Diet Analysis Report (2025/5/10)
+------------------------------------------------------------
+Name: Comet
+Age: 20
+Gender(F/M):F
+Height(cm): 160
+Weight(kg): 54
+BMI: 21.1
+Physical Status: Normal
+
+Nutritional Intake Profile (daily recommendation in parentheses) :
+Food Energy Intake: 632(1534kcal)
+Staple Food: 155 (200-300g)
+Animal Proteins: 50 (120-200g)
+Vegetables: 80 (300-500g)
+Fruits: 200 (200-350g)
+Diary: 150 (300g)
+============================================================
